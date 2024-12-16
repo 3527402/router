@@ -1,0 +1,29 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3527402/router.git"
+  },
+  "keywords": [
+    "router"
+  ],
+  "author": "csy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3527402/router/issues"
+  },
+  "homepage": "https://github.com/3527402/router#readme",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.1.5",
+    "vite": "^5.4.11",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5"
+  }
+}
